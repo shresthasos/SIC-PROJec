@@ -17,7 +17,7 @@ Extracts one target speaker's voice from a mixture (interfering speakers and/or 
 
 ## Inside one dual-path layer
 
-![Dual-path layer](images/dual_path_layer.png)
+![Dual-path layer](images/dual-path_layer.png)
 
 Each layer takes features of shape B × K × T × N (batch, bands, frames, features) and applies three steps:
 
